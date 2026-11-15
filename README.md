@@ -6,7 +6,7 @@ A Flask-based smart parking platform that allows users to discover parking facil
 
 Finding available parking can be inconvenient, especially near busy locations such as malls, hospitals, and theatres.
 
-Parkify aims to simplify this process by providing a centralized platform where customers can explore parking facilities, book in advance, and complete a demo payment. Instead of reserving a specific physical slot, the system reserves parking capacity and assigns an available slot dynamically when the customer arrives and presents their QR code.
+Parkify aims to simplify this process by providing a centralised platform where customers can explore parking facilities, book in advance, and complete a demo payment. Instead of reserving a specific physical slot, the system reserves parking capacity and assigns an available slot dynamically when the customer arrives and presents their QR code.
 
 ## ✨ Key Features
 
